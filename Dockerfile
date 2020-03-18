@@ -1,6 +1,6 @@
 FROM python:3.7-alpine
 
-LABEL maintainer="Bruno Souza <bruno@bgsouza.com>"
+LABEL maintainer="Cecilia Sousa <ceciliasousa21@gmail.com>"
 
 WORKDIR /opt/app/ecom-app
 COPY /app .
